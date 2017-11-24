@@ -39,6 +39,16 @@
 	"url":"pool.pirl.io",
         "notify":""
     },
+    {
+	"name":"SHOCKCOIN",
+	"stats":"http://pirl.shockcoin.com/pirl/api/stats",
+	"blocks":"http://pirl.shocoin.com/pirl/api/blocks",
+	"payments":"http://pirl.shockcoin.com/pirl/api/payments",
+	"accounts":"http://pirl.shockcoin.com/pirl/api/accounts",
+	"miners":"http://pirl.shockcoin.com/pirl/api/miners",
+	"url":"pirl.shockcoin.com",
+	"notify":""
+    },
     {  
 	"name":"HODLPOOL",
 	"stats":"http://pirl.hodlpool.com/api/stats",
